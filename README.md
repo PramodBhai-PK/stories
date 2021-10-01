@@ -1,12 +1,10 @@
 # kids_stories
 
-A new Flutter application.
-
+This is A flutter story app developed with the Laravel admin panel
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+If any one wants to see the complete app then go to https://codecanyon.net/item/multipurpose-flutter-story-app/33275752
+and also check the portfolio
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
