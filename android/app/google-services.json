@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370021510333",
+    "project_id": "storyapp-8c188",
+    "storage_bucket": "storyapp-8c188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370021510333:android:2dbb8604499416fdc35bd4",
+        "android_client_info": {
+          "package_name": "com.dizitaltrends.kids_stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370021510333-0g0oiq38btnl6it2oqidtdvghpaci4vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4NTscRIiNDn1O-QLde5VjbtM3-hFPzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370021510333-0g0oiq38btnl6it2oqidtdvghpaci4vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
